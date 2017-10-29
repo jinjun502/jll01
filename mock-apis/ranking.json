@@ -1,0 +1,16 @@
+{
+    // 排行榜
+    "success": true, // 如果没有排行榜的话，这里就是false
+    "data": {
+        "huadong": [
+            {
+                "name": "王小二",
+                "durtion": 300, // 单位是秒，即花费时间为300秒
+                "avatar": "http://abcde.png"
+            }
+        ],
+        "huanan": [],
+        "huaxi": [],
+        "huabei": []
+    }
+}
